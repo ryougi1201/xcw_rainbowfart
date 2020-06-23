@@ -1,0 +1,81 @@
+{
+    "name": "XCW",
+    "display-name": "XCW（キョカ）(Japanese)",
+    "avatar": "xcw.jpg",
+    "avatar-dark": "xcw2.jpg",
+    "version": "1.0.0",
+    "description": "变态可疑份子的公主连结镜华语音包 ",
+    "languages": ["javascript"],
+    "author": "ryougi1201",
+    "gender": "female",
+    "locale": "jp",
+    "contributes": [
+        {
+            "keywords": ["function", "=>", "func ", "def "],
+            "voices":[
+                "function_01.m4a",
+                "function_02.m4a",
+                "function_03.m4a"
+            ]
+        },
+
+        {
+            "keywords": ["if"],
+            "voices": [
+                "if_01.m4a",
+                "if_02.m4a"
+            ]
+        },
+        {
+            "keywords": ["for", "while"],
+            "voices": [
+                "for_01.m4a",
+                "for_02.m4a"
+                
+            ]
+        },
+        {
+            "keywords": ["catch", "except", "err != nil", "err!=nil"],
+            "voices": [
+                "catch_01.m4a",
+                "catch_02.m4a"
+                
+            ]
+        },
+        {
+            "keywords": ["import", "include"],
+            "voices": [
+                "import_01.m4a"
+            ]
+        },
+        
+        {
+            "keywords": ["fuck", "shit"],
+            "voices": ["fuck_pm_01.m4a"]
+        },
+        {
+            "keywords": ["$time_morning"],
+            "voices": ["time_morning_01.m4a"]
+        },
+       
+        {
+            "keywords": ["$time_noon"],
+            "voices": ["time_noon_01.m4a"]
+        },
+        {
+            "keywords": ["$time_evening"],
+            "voices": ["time_evening_01.m4a"]
+        },
+        {
+            "keywords": ["$time_each_hour"],
+            "voices": [
+                "time_each_hour_01.m4a",
+                "time_each_hour_02.m4a",
+                "time_each_hour_03.m4a",
+                "time_each_hour_04.m4a"
+                
+            ]
+        }
+    ]
+
+}
